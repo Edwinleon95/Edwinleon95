@@ -10,6 +10,8 @@ Python y Angular, así mismo perfeccionando mi inglés y las tecnologías antes 
 
 Aparte de la tecnología me gustan mucho los videojuegos y los deportes a los cuales les dedico mi tiempo libre.
 
+Aquí puedes encontrar más información sobre mi https://www.linkedin.com/in/edwin-leon-81988a13b/
+
 
 
 
