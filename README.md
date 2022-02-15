@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola!! 👋
+![Invierte en Verazel(1)](https://user-images.githubusercontent.com/86617629/154140254-13fc1054-945f-4914-971b-fdec360f5cc5.jpg)
 
-<!--
-**Edwinleon95/Edwinleon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy una persona apasionada y creativa, en busca de nuevos retos profesionales y personales, con conocimiento en:
+JavaScript, ReactJs, Redux, Express, MongoDB, PostgreSQL, NodeJs y Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro aprendiendo nuevas tecnologías y nuevos lenguajes como:
+Python y Angular, así mismo perfeccionando mi inglés.
+
+Aparte de la tecnología me gustan mucho los videojuegos y los deportes a los cuales les dedico mi tiempo libre.
+
+
+
+
+
