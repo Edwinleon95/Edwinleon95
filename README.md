@@ -1,7 +1,7 @@
-### Hola!! 👋
-![Invierte en Verazel(1)](https://user-images.githubusercontent.com/86617629/154140254-13fc1054-945f-4914-971b-fdec360f5cc5.jpg)
 
+![Presentation card](https://user-images.githubusercontent.com/86617629/154140254-13fc1054-945f-4914-971b-fdec360f5cc5.jpg)
 
+# 👔 About me
 Soy una persona apasionada y creativa, en busca de nuevos retos profesionales y personales, con conocimiento en:
 JavaScript, ReactJs, Redux, Express, MongoDB, PostgreSQL, NodeJs y Sequelize
 
