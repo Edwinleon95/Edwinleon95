@@ -2,18 +2,11 @@
 ![smalPresentationImage](https://github.com/user-attachments/assets/e27f7939-32fb-43e3-aea5-85741fd559f3)
 
 # 👔 About me
-Soy una persona apasionada y creativa, en busca de nuevos retos profesionales y personales, con conocimiento en:
-JavaScript, ReactJs, Redux, Express, MongoDB, PostgreSQL, NodeJs y Sequelize
+Hey 👋 I'm Edwin León, a professional software developer based in Brisbane. My journey into coding began during the Covid pandemic, a time that inspired me to dust off my old laptop, dive into studies, and write my first lines of code. If "Hello, World!" brings back memories for you, then you know that spark of excitement I felt — and I haven’t looked back since.
 
-Actualmente me encuentro aprendiendo nuevas tecnologías y nuevos lenguajes como:
-Python y Angular, así mismo perfeccionando mi inglés y las tecnologías antes mencionadas.
+Four years later, I’m proud to have collaborated with amazing teams to build solutions that help companies grow and thrive.
 
-Aparte de la tecnología me gustan mucho los videojuegos y los deportes a los cuales les dedico mi tiempo libre.
-
-Aquí puedes encontrar más información sobre mi https://www.linkedin.com/in/edwin-leon-81988a13b/
-
-
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
