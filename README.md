@@ -1,5 +1,5 @@
 
-![Presentation card](https://user-images.githubusercontent.com/86617629/154140254-13fc1054-945f-4914-971b-fdec360f5cc5.jpg)
+![presentation image](https://github.com/user-attachments/assets/51dbc09c-ca62-4612-ba1d-124d68381760)
 
 # 👔 About me
 Soy una persona apasionada y creativa, en busca de nuevos retos profesionales y personales, con conocimiento en:
@@ -25,5 +25,6 @@ Aquí puedes encontrar más información sobre mi https://www.linkedin.com/in/ed
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 
 
