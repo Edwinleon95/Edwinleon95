@@ -2,9 +2,10 @@
 ![smalPresentationImage](https://github.com/user-attachments/assets/e27f7939-32fb-43e3-aea5-85741fd559f3)
 
 # 👔 About me
-Hey 👋 I'm Edwin León, a professional software developer based in Brisbane. My journey into coding began during the Covid pandemic, a time that inspired me to dust off my old laptop, dive into studies, and write my first lines of code. If "Hello, World!" brings back memories for you, then you know that spark of excitement I felt — and I haven’t looked back since.
+Hey 👋 I’m Edwin León, a software developer.
+My journey into coding began during the Covid pandemic. I picked up my old laptop, started learning by myself, and wrote my first lines of code. If you remember the excitement of seeing "Hello, World!" for the first time, you know how I felt. Over time, that excitement turned into a real passion for coding.
 
-Four years later, I’m proud to have collaborated with amazing teams to build solutions that help companies grow and thrive.
+Now, four years later, I’ve worked with great teams to create solutions that help businesses grow and succeed.
 
 ## 🧰 Languages and Tools
 
